@@ -5,7 +5,6 @@ import uvicorn
 
 app = FastAPI()
 
-# Dummy OCR functions (replace with your actual implementations)
 def extract_text_blocks(image):
     # Returns list of (block_image, block_bbox) for further OCR
     pass
