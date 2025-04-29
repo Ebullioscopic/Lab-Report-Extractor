@@ -32,7 +32,7 @@ POST https://1hl9rpqb-8004.inc1.devtunnels.ms/get-lab-tests
 
 ## Intermediate image
 
-![Intermediate Image](/static/assets/intermediate_image.png)
+![Intermediate Image](https://github.com/Ebullioscopic/Lab-Report-Extractor/blob/main/intermediate.png)
 
 ---
 
