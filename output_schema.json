@@ -1,0 +1,19 @@
+{
+    "is_success": true,
+    "data": [
+        {
+            "test_name": "HB ESTIMATION",
+            "test_value": "9.4",
+            "bio_ reference_range": "12.0-15.0",
+            "test_unit": "g/dL",
+            "lab_test_out_of_range": false
+        },
+        {
+            "test_name": "PCV (PACKED CELL VOLUME)",
+            "test_value": "48.7",
+            "bio_ reference_range": "36.0-46.0",
+            "test_unit": "%",
+            "lab_test_out_of_range": true
+        }
+    ]
+}
