@@ -30,20 +30,9 @@ POST https://1hl9rpqb-8004.inc1.devtunnels.ms/get-lab-tests
 
 ---
 
-## Table of Contents
+## Intermediate image
 
-- [Pipeline Architecture](#pipeline-architecture)
-- [Key Components](#key-components)
-  - [CRAFT (Text Detection)](#craft-text-detection)
-  - [TrOCR (Text Recognition)](#trocr-text-recognition)
-  - [Custom Transformer Model Training](#custom-transformer-model-training)
-  - [Lab Test Extraction Logic](#lab-test-extraction-logic)
-- [API Usage](#api-usage)
-- [Example Request](#example-request)
-- [Example Response](#example-response)
-- [Code Snippets](#code-snippets)
-- [How Output is Generated](#how-output-is-generated)
-- [Extensibility & Notes](#extensibility--notes)
+![Intermediate Image](/static/assets/intermediate_image.png)
 
 ---
 
